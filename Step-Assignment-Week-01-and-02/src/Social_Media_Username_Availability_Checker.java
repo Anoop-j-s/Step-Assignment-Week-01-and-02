@@ -6,7 +6,7 @@ public class Social_Media_Username_Availability_Checker {
 
     static HashMap<String, Integer> users = new HashMap<>();
 
-    // username -> attempt count
+
     static HashMap<String, Integer> attempts = new HashMap<>();
 
     // Check availability
