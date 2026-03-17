@@ -81,7 +81,7 @@ class RateLimiterApp {
         }
     }
 
-    // Main meth
+    // Main m
     public static void main(String[] args) {
 
         RateLimiter limiter = new RateLimiter();
