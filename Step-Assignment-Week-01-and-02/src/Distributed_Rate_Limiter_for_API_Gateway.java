@@ -81,7 +81,7 @@ class RateLimiterApp {
         }
     }
 
-    // Main method
+    // Main metho
     public static void main(String[] args) {
 
         RateLimiter limiter = new RateLimiter();
@@ -93,4 +93,4 @@ class RateLimiterApp {
 
         System.out.println(limiter.getRateLimitStatus(clientId));
     }
-}
+}g
