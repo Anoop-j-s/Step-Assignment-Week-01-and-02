@@ -81,7 +81,7 @@ class RateLimiterApp {
         }
     }
 
-    // M
+
     public static void main(String[] args) {
 
         RateLimiter limiter = new RateLimiter();
